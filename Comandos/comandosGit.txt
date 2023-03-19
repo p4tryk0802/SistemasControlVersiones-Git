@@ -1,1 +1,8 @@
 En este documento mostraremos los comandos de Git más utilizados hasta el momento.”
+
+“Estos son los comandos que hemos empleado hasta ahora:
+    1. Git init
+    2. Git add
+    3. Git commit
+    4. Git status
+    5. Git log”
